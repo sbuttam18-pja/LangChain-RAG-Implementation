@@ -1,0 +1,24 @@
+
+# LangChain ecosystem
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Embeddings
+sentence-transformers
+
+# Vector database
+chromadb
+
+# Machine learning utilities
+scikit-learn
+
+# LLM integrations
+langchain-openai
+langchain-groq
+
+# PDF document loading
+pypdf
+
+# Environment variables
+python-dotenv
