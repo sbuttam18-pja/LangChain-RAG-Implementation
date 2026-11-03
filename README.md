@@ -41,7 +41,11 @@ LangChain-RAG-Implementation/
 │
 ├── data/
 │   └── pdfs/
-│       └── .gitkeep
+│   |   └─research1.pdf
+|   |   └─research2.pdf
+|   |
+|   └──vector_store
+|   └──python.txt
 │
 ├── notebooks/
 │   └── rag_pipeline.ipynb
@@ -54,7 +58,6 @@ LangChain-RAG-Implementation/
 │   ├── retriever.py
 │   └── llm_integration.py
 │
-├── .env.example
 ├── .gitignore
 ├── requirements.txt
 └── README.md
